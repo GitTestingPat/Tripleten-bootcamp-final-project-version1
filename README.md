@@ -1,2 +1,2 @@
 # ballena-delfin
-En este repositorio se encuentran 7 proyectos que fueron realizados durante Bootcamp en Practicum Latam como requisitos para obtener la graduación de QA Engineer.
+In this repository there are 7 projects that were carried out during Bootcamp in Tripleten as requirements to obtain the QA Engineer graduation.
